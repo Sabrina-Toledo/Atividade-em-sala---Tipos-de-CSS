@@ -1,0 +1,24 @@
+.card {
+    width: 300px;         /* Largura da caixa */
+    padding: 20px;        /* Espaço entre o texto e a borda (respiro) */
+    background: white;    /* Cor de fundo do cartão */
+    margin: 20px auto;    /* Centraliza o card na tela */
+}
+
+.border {
+    border: 2px solid #333; /* Espessura | Estilo (linha reta) | Cor */
+    border-radius: 15px;    /* Arredonda os cantos*/
+}
+
+.main-color {
+    color: blue; 
+    font-weight: bold; /*Negrito */
+}
+
+.icone2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; /*ficar redondo*/
+    background-color: #eee;
+    margin-bottom: 60px; /*Empurra o texto para baixo */
+}
